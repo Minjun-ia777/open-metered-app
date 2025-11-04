@@ -3,7 +3,6 @@ import folium
 from streamlit_folium import st_folium
 import requests
 import pandas as pd
-import-module
 
 # --- Page Configuration ---
 # Use a wide layout for a better dashboard feel
@@ -166,4 +165,5 @@ else:
         "Click the map to fetch and display weather data for that location.  \n"
         "*(지도를 클릭하면 해당 지역의 날씨 데이터를 가져옵니다.)*"
     )
+
 
